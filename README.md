@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguyen+Anh+Hung;AI+Researcher+%7C+Backend+%26+Cloud+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguyen+Anh+Hung;AI+Researcher+%7C+Full-Stack+%26+Cloud+Dev" alt="Typing SVG" />
 </h1> 
 
 <h3 align="center">
-  AI Researcher | Software Developer | Cloud & Observability Enthusiast
+  Software Developer | Cloud & Observability Enthusiast | IoT & Robotics Explorer
 </h3>
 
 ## 👀 Profile Views
@@ -18,13 +18,24 @@
 
 ## 👨‍💻 About Me:
 
-- 🎓 **Education**: Studying at **Ho Chi Minh City University of Industry (IUH)**.
-- 🔭 **Current Focus**: Building Cloud-Native Microservices, High-Throughput Pipelines & Distributed Systems.
-- 💼 **Available Projects**: Explore all my repositories on [GitHub](https://github.com/nguyenanhhung403?tab=repositories).
-- 💬 **Ask me about**: C, C++, C#, Java, Go, Python, SQL, Docker, Kafka, ClickHouse.
+- 🎓 **Education**: Software Engineering Student (Currently working on Capstone Project SU26).
+- 🔭 **Current Focus**: Building Cloud-Native Microservices, CI/CD DevOps Pipelines (GitHub Actions), and Distributed Systems.
+- ⚙️ **Hardware Persona**: Daily driving an NVIDIA RTX 5060 Ti rig for intensive local AI/Dev workloads.
+- 💬 **Ask me about**: .NET, React, Flutter, Go, Kafka, ClickHouse, and IoT (ThingsBoard, ESP32, MQTT).
 - 📫 **How to reach me**: **nguyenanhhung403@gmail.com**
-- 📄 **Experience**: Software Developer focusing on Artificial Intelligence, Distributed Systems & Observability.
-- ⚡ **Fun fact**: I love taking calculated risks and building complex backend architectures.
+- ⚡ **Fun facts**: Beyond architecture and backend coding, I play acoustic fingerstyle guitar, study Japanese, and have a deep interest in motorcycle mechanics and performance tuning.
+
+## 🔥 Featured Projects:
+- 🤖 **SmartMarketBot (Capstone SU26)**: An AI-powered autonomous warehouse and supermarket customer service robotics platform leveraging IoT systems (LiDAR, ESP32, MQTT pipelines).
+- ⚖️ **AI People's Court**: A crowdsourced full-stack web platform built for interactive community voting and dramatic judicial narrative arbitration.
+
+## 🚀 Tech Stack & Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Đã đồng bộ bằng hệ thống Skill Icons vuông vắn và hiện đại -->
+    <img src="https://skillicons.dev/icons?i=go,cs,java,py,js,react,flutter,docker,githubactions,kafka,git,unity&perline=6" alt="Tech Stack" />
+  </a>
+</p>
 
 ## 🤝 Connect with me:
 <p align="left">
@@ -38,36 +49,24 @@
   <a href="https://www.youtube.com/c/hunganhnguyen2574" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
-## 🚀 Languages and Tools:
-<p align="left">
-  <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" style="margin: 10px;"/></a>
-  <a href="https://dotnet.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin: 10px;"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 10px;"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;"/></a>
-  <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 10px;"/></a>
-  <a href="https://docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="margin: 10px;"/></a>
-  <a href="https://clickhouse.com"><img src="https://www.vectorlogo.zone/logos/clickhouse/clickhouse-icon.svg" alt="ClickHouse" width="50" height="50" style="margin: 10px;"/></a>
-  <a href="https://kafka.apache.org"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50" style="margin: 10px;"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin: 10px;"/></a>
-  <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="50" height="50" style="margin: 10px;"/></a>
-</p>
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="nguyenanhhung403's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nguyenanhhung403&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="170px"/>
+  <a href="https://github.com/nguyenanhhung403">
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=nguyenanhhung403&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="170px"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="nguyenanhhung403's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenanhhung403&langs_count=8&layout=compact&theme=dark&hide_border=true" height="170px"/>
+  <a href="https://github.com/nguyenanhhung403">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenanhhung403&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
   </a>
 </p>
 
+## 🐍 Contribution Snake Animation
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="nguyenanhhung403's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nguyenanhhung403&theme=react-dark&hide_border=true" width="100%" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenanhhung403/nguyenanhhung403/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenanhhung403/nguyenanhhung403/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nguyenanhhung403/nguyenanhhung403/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ## ☕ Support Me
