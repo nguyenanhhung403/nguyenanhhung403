@@ -11,9 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=nguyenanhhung403&label=Profile%20views&color=00b4d8&style=for-the-badge" alt="Profile Views" /> 
 </p>
 
-## 🏆 GitHub Activity & Summary
+## 🏆 GitHub Commit Streak
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/chat?username=nguyenanhhung403&theme=2077" alt="GitHub Summary" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenanhhung403&theme=black-ice&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 👨‍💻 About Me:
